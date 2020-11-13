@@ -13,8 +13,9 @@ Pod::Spec.new do |spec|
   spec.header_dir = "MailCore"
   spec.requires_arc = false
   spec.public_header_files = "include/MailCore/*.h"
-  spec.preserve_paths = "include/MailCore/*.h"
-  spec.vendored_libraries = "lib/libMailCore-ios.a"
+  spec.preserve_paths = "*"
+  spec.ios.vendored_library = "lib/libMailCore-ios.a"
+  spec.module_map = 'module.modulemap'
   spec.libraries = "xml2", "iconv", "z", "c++", "resolv"
   spec.prepare_command = "curl -O https://github.com/MailCore/mailcore2/raw/master/LICENSE"
 end

@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://libmailcore.com"
   spec.license      = { :type => "BSD", :file => "LICENSE" }
   spec.author       = { "MailCore Authors" => "" }
-  spec.source       = { :git => "https://github.com/Cleverlance/mailcore2-ios.git" }
+  spec.source       = { :http => "http://d.etpan.org/mailcore2-deps/mailcore2-ios/mailcore2-ios-12.zip" }
   spec.platform = :ios, '10.0'
   spec.requires_arc = false
   spec.source_files = ['include/**/*.{h,mm}','include/*.{h,mm}','include/TSVoiceConverter.swift']
@@ -24,7 +24,8 @@ Pod::Spec.new do |spec|
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.preserve_path = '*'
   spec.prepare_command = <<-CMD
-    unzip -f mailcore2-ios.zip;
+    curl -O http://d.etpan.org/mailcore2-deps/mailcore2-ios/mailcore2-ios-12.zip  
+    unzip -f `pwd`/mailcore2-ios.zip;
     curl -O https://github.com/MailCore/mailcore2/raw/master/LICENSE
   CMD
 

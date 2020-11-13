@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://libmailcore.com"
   spec.license      = { :type => "BSD", :file => "LICENSE" }
   spec.author       = { "MailCore Authors" => "" }
-  spec.source       = { :https => "https://github.com/Cleverlance/mailcore2-ios/raw/master/mailcore2-ios.zip", :flatten => true }
+  spec.source       = { :http => "https://github.com/Cleverlance/mailcore2-ios/raw/master/mailcore2-ios.zip" }
   spec.ios.deployment_target = "8.0"
   spec.header_dir = "MailCore"
   spec.requires_arc = false

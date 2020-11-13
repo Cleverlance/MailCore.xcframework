@@ -22,6 +22,7 @@ Pod::Spec.new do |spec|
   spec.libraries = "xml2", "iconv", "z", "c++", "resolv"
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.preserve_path = '*'
   spec.prepare_command = <<-CMD
     unzip -f ./mailcore2-ios.zip;
     curl -O https://github.com/MailCore/mailcore2/raw/master/LICENSE

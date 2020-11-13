@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "mailcore2-ios"
+  spec.name         = "MailCore2"
   spec.version      = "0.6.4"
   spec.summary      = "Mailcore 2 for iOS"
   spec.description  = <<-DESC

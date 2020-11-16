@@ -1,0 +1,4 @@
+module MailCore {
+  header "../include/MailCore/MailCore.h"
+  export *
+}

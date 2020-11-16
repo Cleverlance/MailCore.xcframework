@@ -13,20 +13,17 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://libmailcore.com"
   spec.license      = { :type => "BSD", :file => "LICENSE" }
   spec.author       = { "MailCore Authors" => "" }
-  spec.source       = { :http => "http://d.etpan.org/mailcore2-deps/mailcore2-ios/mailcore2-ios-12.zip" }
-  spec.platform = :ios, '10.0'
+  spec.source       = { :http => "http://d.etpan.org/mailcore2-deps/mailcore2-ios/mailcore2-ios-12.zip", :flatten => true }
+  spec.platform = :ios, '8.0'
+  spec.header_dir = "MailCore"
   spec.requires_arc = false
-  spec.source_files = ['include/**/*.{h,mm}','include/*.{h,mm}','include/TSVoiceConverter.swift']
-  spec.vendored_libraries = "lib/*.a"
-  spec.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
+  spec.public_header_files = "include/MailCore/*.h"
+  spec.preserve_paths = "include/MailCore/*.h"
+  spec.vendored_libraries = "lib/libMailCore-ios.a"
   spec.libraries = "xml2", "iconv", "z", "c++", "resolv"
+
+  spec.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  spec.preserve_path = '*'
-  spec.prepare_command = <<-CMD
-    curl -O http://d.etpan.org/mailcore2-deps/mailcore2-ios/mailcore2-ios-12.zip  
-    unzip -f `pwd`/mailcore2-ios.zip;
-    curl -O https://github.com/MailCore/mailcore2/raw/master/LICENSE
-  CMD
-
+  spec.prepare_command = "curl -O https://github.com/MailCore/mailcore2/raw/master/LICENSE"
 end

@@ -14,5 +14,5 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target  = "9.0"
 
   # Published binaries
-  vendored_frameworks = "MailCore.xcframework"
+  spec.vendored_frameworks = "MailCore.xcframework"
 end

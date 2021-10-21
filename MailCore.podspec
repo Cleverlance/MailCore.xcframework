@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name               = "MailCore"
-  spec.version            = "1.0.0"
+  spec.version            = "1.0.1"
   spec.summary            = "MailCore2 distribution via CocoaPods"
   spec.description        = "..."
   spec.homepage           = "https://github.com/Cleverlance/MailCore.xcframework"
@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.swift_version      = "5.3"
 
   # Supported deployment targets
-  spec.ios.deployment_target  = "9.0"
+  spec.ios.deployment_target  = "12.0"
 
   # Published binaries
   spec.vendored_frameworks = "MailCore.xcframework"

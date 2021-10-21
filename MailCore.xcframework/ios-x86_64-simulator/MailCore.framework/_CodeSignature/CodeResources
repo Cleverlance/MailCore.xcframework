@@ -858,7 +858,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		c9YLeWt1fFATiQSX77umGJMxEoM=
+		l88Gb8BvHUv8j1wftH3NYgm2ia4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -873,10 +873,6 @@
 	<dict>
 		<key>Headers/MCAbstract.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			701dlU8YygBYpfASJEVBy/htYAY=
-			</data>
 			<key>hash2</key>
 			<data>
 			MI18/RVO8QNAGQOV2/R+dp7JS9opAqawiB+aSHUx43E=
@@ -884,10 +880,6 @@
 		</dict>
 		<key>Headers/MCAbstractMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eujN1pKQGbvIcNORUvN+2Mot/Hw=
-			</data>
 			<key>hash2</key>
 			<data>
 			iy2neQgjNxFOorGAgIJHR9JqF898MxJI5ieD5n1GTjU=
@@ -895,10 +887,6 @@
 		</dict>
 		<key>Headers/MCAbstractMessagePart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JUGeaDs2PnvPu+L5GcPVeqGgqQc=
-			</data>
 			<key>hash2</key>
 			<data>
 			78qKa1eb0tKjpRcK8RBIWYnRWV+8+E/My01DwLWV9II=
@@ -906,10 +894,6 @@
 		</dict>
 		<key>Headers/MCAbstractMultipart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j3xbQgj1ERQ1141DNvqUUVfTQ1k=
-			</data>
 			<key>hash2</key>
 			<data>
 			pgCRF52MWUBFwxZIwFk7iCTIsyq6sB/QrhXsi43jBWs=
@@ -917,10 +901,6 @@
 		</dict>
 		<key>Headers/MCAbstractPart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OeWFo8lJtPFF/ml+aBln4qvQkK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			NrN3I/gk3beH8Ew6bszZ26SIQFX47hs3wNkhfk5mNqk=
@@ -928,10 +908,6 @@
 		</dict>
 		<key>Headers/MCAccountValidator.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kirxCtHPay3wsBXQI1gw1kK5BCE=
-			</data>
 			<key>hash2</key>
 			<data>
 			mD8WzLF6jkiFKPJiOwDQmS/dY8I/dGm2Db2IydQNZRk=
@@ -939,10 +915,6 @@
 		</dict>
 		<key>Headers/MCAddress.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ycCBrToNGEiNwBn7mvhF2d4is90=
-			</data>
 			<key>hash2</key>
 			<data>
 			gs7s8zKn3Hi/A3vxXmn44Q/h0lrpFzm1nr5KyipmP4U=
@@ -950,10 +922,6 @@
 		</dict>
 		<key>Headers/MCAddressDisplay.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pa4jw6pjG7wpVsuUwmC2b2AWnnE=
-			</data>
 			<key>hash2</key>
 			<data>
 			83/vlbifar5XrO+IPgQYjHa2hooU2q4Ho+CBa5KDbTo=
@@ -961,10 +929,6 @@
 		</dict>
 		<key>Headers/MCArray.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rb0fBkLa2QuuxytDjkJNeh03ngQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			m2JGd8YyjgVfUxWH6ciLUvDIqcMv4VzV3NYaluWMZvY=
@@ -972,10 +936,6 @@
 		</dict>
 		<key>Headers/MCAssert.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jIy3/Rtze7Owvw2bm/9DJgTVTcI=
-			</data>
 			<key>hash2</key>
 			<data>
 			3t4J3JUxKB+Vho6zE6DrwtaYO8owWpm94jXcUmxk2LE=
@@ -983,10 +943,6 @@
 		</dict>
 		<key>Headers/MCAsync.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lzE4UCoRwxBdwq6YUMRCW6ISoNc=
-			</data>
 			<key>hash2</key>
 			<data>
 			DvdQ/CmcjlW5Ja/+7wrtRHaqkxvLc5Nb8Doct0fDaqI=
@@ -994,10 +950,6 @@
 		</dict>
 		<key>Headers/MCAsyncIMAP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/VOnK64uZD09zTA4v/R3W6eD5qc=
-			</data>
 			<key>hash2</key>
 			<data>
 			cWoKHhQWNzIOIXOtlbB8ALOZEUEi9vrtuhAwLfp0HE4=
@@ -1005,10 +957,6 @@
 		</dict>
 		<key>Headers/MCAsyncNNTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			74/W1v9ih9OUWzMBlqvqLQ8VX0k=
-			</data>
 			<key>hash2</key>
 			<data>
 			IgAOR8FZeDBMTuAEOMiaKqZqynN13qxkJJbpjujEULU=
@@ -1016,10 +964,6 @@
 		</dict>
 		<key>Headers/MCAsyncPOP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kz8dRQKAGUA18U+oh/lEBC0TvAM=
-			</data>
 			<key>hash2</key>
 			<data>
 			/KNVkQNHz3/qB9nzIp3ntavExqrDaj/+T4x7AO6I+O8=
@@ -1027,10 +971,6 @@
 		</dict>
 		<key>Headers/MCAsyncSMTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			82a+1hrrDvp98buJnvZHIIdTeRw=
-			</data>
 			<key>hash2</key>
 			<data>
 			XhU0N6Y4GK+8J20v6tWzQQWYhOsaguZIT6ZOqW5fxTc=
@@ -1038,10 +978,6 @@
 		</dict>
 		<key>Headers/MCAttachment.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PNthuIZEsC1+M1fMHSXz0QbrgSU=
-			</data>
 			<key>hash2</key>
 			<data>
 			xhwEKG0Y8mVlHngqPusSJnEVkdG2MTra8Q4X6MX7BUk=
@@ -1049,10 +985,6 @@
 		</dict>
 		<key>Headers/MCAutoreleasePool.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YHcYnFk5oKZAHd14xZWcTRm+HZw=
-			</data>
 			<key>hash2</key>
 			<data>
 			8d4/8UPmijM9ZVYwE26Hvs6E+awx0InLQ7pfmmGYltg=
@@ -1060,10 +992,6 @@
 		</dict>
 		<key>Headers/MCBaseTypes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BD8MPBLiar8H4yaXI+MiiFpG8zY=
-			</data>
 			<key>hash2</key>
 			<data>
 			XI0owxHcFJAl/LtQ4Fr8YA7oIfLRJOb9mjAQrSe0SOQ=
@@ -1071,10 +999,6 @@
 		</dict>
 		<key>Headers/MCConnectionLogger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YbwFnfK1wsyP0medyWNxmii9HM8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Nhpmyo6w11ATN/ox+l+gM3sH9Hhhxso52MYtXaqkRow=
@@ -1082,10 +1006,6 @@
 		</dict>
 		<key>Headers/MCCore.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mcHuWUUEH0KLQ2/zTvnyz7MyP/k=
-			</data>
 			<key>hash2</key>
 			<data>
 			cqnIAbaz9LprdPIGpj9mMonCD4MrfwMAolT6dICGP9k=
@@ -1093,10 +1013,6 @@
 		</dict>
 		<key>Headers/MCData.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			obAz9oQxty6YLy4uMcOuXZBtUIU=
-			</data>
 			<key>hash2</key>
 			<data>
 			OyRhDlTbZFCgQEmjABPQ9em1tcKLvYhvUpkPZZXRooo=
@@ -1104,10 +1020,6 @@
 		</dict>
 		<key>Headers/MCDateFormatter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kMocJADl5JI8LjXpW3DVaimkGeo=
-			</data>
 			<key>hash2</key>
 			<data>
 			qM/GLSif6ZiJGg6slROejLtBWhQLTCIm18Jlk8oNqLA=
@@ -1115,10 +1027,6 @@
 		</dict>
 		<key>Headers/MCHTMLCleaner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mw3/R0uAfiwkzpxEnpSXQH1n3IU=
-			</data>
 			<key>hash2</key>
 			<data>
 			1Hsrih0e7yan6mdy2I+TAnQLT0f2bYW/GfnSPXWzvMg=
@@ -1126,10 +1034,6 @@
 		</dict>
 		<key>Headers/MCHTMLRendererCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZB1RFh0VI2Rh1grfvRoP1n87cwA=
-			</data>
 			<key>hash2</key>
 			<data>
 			YvkdPpbGUIdrB9Psr+a1QuhCrZhjfuH6kfDdMekHVeM=
@@ -1137,10 +1041,6 @@
 		</dict>
 		<key>Headers/MCHash.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GpgFP/zRccOqFVLCWS4B3qWYOD4=
-			</data>
 			<key>hash2</key>
 			<data>
 			3quQG97iI+1k053gznjEoGehy5k587qoSDs5D+ogK3o=
@@ -1148,10 +1048,6 @@
 		</dict>
 		<key>Headers/MCHashMap.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gL2uY70ksrsUv0BT5COiHD0DwD4=
-			</data>
 			<key>hash2</key>
 			<data>
 			+Mh+Bd4bhGwK0rg04PdHv4K7XxHLaEAV49w1xT6bDuo=
@@ -1159,10 +1055,6 @@
 		</dict>
 		<key>Headers/MCICUTypes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QvJB/mxTKv3ozJ4sPiz/Kp7EBBQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			imkQvplSoOxs7E+5jJDrQmknX636x2nHOonLTygk30Y=
@@ -1170,10 +1062,6 @@
 		</dict>
 		<key>Headers/MCIMAP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			evxSjRTK7kxaWDl4GBcIPESv2Hs=
-			</data>
 			<key>hash2</key>
 			<data>
 			dRlP0wmj/pegPhuzcfvLD+9dqx4EIpo7tFkilmb5JBk=
@@ -1181,10 +1069,6 @@
 		</dict>
 		<key>Headers/MCIMAPAppendMessageOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hr8seJdGFA3vereG1/G3I8WXYCQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			2Qxik8ObRTs5C/2Gbbegdxo8StpBnZIrG7s7ToMpYcA=
@@ -1192,10 +1076,6 @@
 		</dict>
 		<key>Headers/MCIMAPAsyncSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6+Sze5ghrQdFir/1EeAvaOOvK44=
-			</data>
 			<key>hash2</key>
 			<data>
 			v8c1F8yIrYUIFmf/qZNyQy5QSo6lnchwiV0OlLtzbns=
@@ -1203,10 +1083,6 @@
 		</dict>
 		<key>Headers/MCIMAPCapabilityOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wbxR6HdZM2Nu0UCLC0jm6A1Z8X8=
-			</data>
 			<key>hash2</key>
 			<data>
 			EJ6L+CJPHXovPua6B8IUDF84BhFcBpoCm8XAl5QCoWs=
@@ -1214,10 +1090,6 @@
 		</dict>
 		<key>Headers/MCIMAPCheckAccountOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ts8YYqPF7DRzEDD1MB1otXYXAoc=
-			</data>
 			<key>hash2</key>
 			<data>
 			2WeydJFctSk5fG6xNSBvIEnFLv236uO3ZUr/aecYx5k=
@@ -1225,10 +1097,6 @@
 		</dict>
 		<key>Headers/MCIMAPCopyMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J7lPHmFKHG+CXuGYhRD4dto3u/c=
-			</data>
 			<key>hash2</key>
 			<data>
 			mnc+BMFe2NZdBu3zTcIcJulQg540xHwCv+r6L7Iisso=
@@ -1236,10 +1104,6 @@
 		</dict>
 		<key>Headers/MCIMAPCustomCommandOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cFyrUVf8Hw1tpBzoCdTgma0CbIg=
-			</data>
 			<key>hash2</key>
 			<data>
 			SMm60lg139pcy54NkEHR3S+U3O4uPD5MF4FeLfIyKg4=
@@ -1247,10 +1111,6 @@
 		</dict>
 		<key>Headers/MCIMAPFetchContentOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HNCx1Ei2aGVJzl09K9cZdeB2oa4=
-			</data>
 			<key>hash2</key>
 			<data>
 			k19M8G/Dg+cyVwEiLAjSLPU2YDTT57SjUYyvL+6/0cg=
@@ -1258,10 +1118,6 @@
 		</dict>
 		<key>Headers/MCIMAPFetchContentToFileOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X6aQOvCA3bkv3NxSJ2erFqDZs4w=
-			</data>
 			<key>hash2</key>
 			<data>
 			UPDm9wpbaAoNCLLOjIVxdch1RIY68y0ARpQRgQpet6c=
@@ -1269,10 +1125,6 @@
 		</dict>
 		<key>Headers/MCIMAPFetchFoldersOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D2PATp/MKvSFaUcw8zJWz2X5VKw=
-			</data>
 			<key>hash2</key>
 			<data>
 			J/idjQJpuQ27IrKLNyvzoM2cqiCSo+8HZS2lSqM458Y=
@@ -1280,10 +1132,6 @@
 		</dict>
 		<key>Headers/MCIMAPFetchMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sT+it383tSCSiJWsm0ggoKRYCik=
-			</data>
 			<key>hash2</key>
 			<data>
 			ksWrzPLLv83i/OGwOYkO51/XNnPU3jN7/G1jMuRqJl4=
@@ -1291,10 +1139,6 @@
 		</dict>
 		<key>Headers/MCIMAPFetchNamespaceOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a0gVsf95wUCd8wO8/IuULAJVmS8=
-			</data>
 			<key>hash2</key>
 			<data>
 			A59Nse5yBI5yWJItG6C6FC2A9qrwa8tJdwoEPQ0B0lc=
@@ -1302,10 +1146,6 @@
 		</dict>
 		<key>Headers/MCIMAPFetchParsedContentOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TiVqaGWtzRYIOh4Ri9xNPKjGlno=
-			</data>
 			<key>hash2</key>
 			<data>
 			ocl3uqYdoeZ8lqiH50l25GkAYHEqjHFnASW7xU+U+0o=
@@ -1313,10 +1153,6 @@
 		</dict>
 		<key>Headers/MCIMAPFolder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YOZ0iQJ08O9j8pUAwFncFwLGz5E=
-			</data>
 			<key>hash2</key>
 			<data>
 			2KFR2j5V64JzTfANnBGkIwBOjyUHOOK197KvfIKqipU=
@@ -1324,10 +1160,6 @@
 		</dict>
 		<key>Headers/MCIMAPFolderInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3TBUvvwEm/HMTBZJe6A1AygTO4w=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZVGUtAwwP5OeLVFQtk96LkyE9jzFJYlj1ruWenGlSfY=
@@ -1335,10 +1167,6 @@
 		</dict>
 		<key>Headers/MCIMAPFolderInfoOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/KbRn3NHQEU6PLiHUlPPhdxcfWk=
-			</data>
 			<key>hash2</key>
 			<data>
 			jBqlG1h27B56Me9C0YY+qpMLgh0FP8HYZuQsWiIXv0Y=
@@ -1346,10 +1174,6 @@
 		</dict>
 		<key>Headers/MCIMAPFolderStatus.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XqWDojLB8NQ5V6gUUxLQPCpLbRo=
-			</data>
 			<key>hash2</key>
 			<data>
 			p0x4MmSf94nXb4DfOpbemu7vxsh+XUhoP/xxX7Z9KTg=
@@ -1357,10 +1181,6 @@
 		</dict>
 		<key>Headers/MCIMAPFolderStatusOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fouMlsOkgC7ei94F6uEQ3itYZK8=
-			</data>
 			<key>hash2</key>
 			<data>
 			2lvmDPWVqz9g1Fxmvw5ebDG+7lswz6B9R91l//jZ/90=
@@ -1368,10 +1188,6 @@
 		</dict>
 		<key>Headers/MCIMAPIdentity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WeMR4l9bon6puhuP5JuVJb8oKEM=
-			</data>
 			<key>hash2</key>
 			<data>
 			rBkDHSdRojoTgGxk3bl4uaJLQKECs9sXdx7zr5i2/B8=
@@ -1379,10 +1195,6 @@
 		</dict>
 		<key>Headers/MCIMAPIdentityOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			chp6gdDAiMaQbvqL4Klso9VdA8E=
-			</data>
 			<key>hash2</key>
 			<data>
 			avJ0GH3sg7Bzj7bPhOv4LglJv0/naB4hKEBHg/bamcQ=
@@ -1390,10 +1202,6 @@
 		</dict>
 		<key>Headers/MCIMAPIdleOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B77sywNH1MC74O5CloksWic6A1A=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hr/gNkvWsEO59w0v6Nnl65BHUajeI6coZJ6NFnmMzfA=
@@ -1401,10 +1209,6 @@
 		</dict>
 		<key>Headers/MCIMAPMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lcwyoi5SGK4LAzTN9H6kaejs/qE=
-			</data>
 			<key>hash2</key>
 			<data>
 			Nkf1Y48J5zdDN0mE9iRq9PPCPKbTtv1QmSDHesRvthQ=
@@ -1412,10 +1216,6 @@
 		</dict>
 		<key>Headers/MCIMAPMessagePart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E4GrYyqa7cPH6UJAGsnTn3I662g=
-			</data>
 			<key>hash2</key>
 			<data>
 			ss4ninwJMlXmoZbTUcccxN8gmP4UyxfDcpzdVvc7ohY=
@@ -1423,10 +1223,6 @@
 		</dict>
 		<key>Headers/MCIMAPMessageRenderingOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IbDPMvR/fuvtD2D142KevUXI4tk=
-			</data>
 			<key>hash2</key>
 			<data>
 			8zvO2zDydoK2p7m1OSUOisgNC0JKElTR5EI1UStgw/k=
@@ -1434,10 +1230,6 @@
 		</dict>
 		<key>Headers/MCIMAPMoveMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XDdANAPZi5OAODFQFVdjPwT+a/A=
-			</data>
 			<key>hash2</key>
 			<data>
 			iEE8E0FGj6xLjZ2H+a/4I8V5XTNg893oPr+25GuB3KQ=
@@ -1445,10 +1237,6 @@
 		</dict>
 		<key>Headers/MCIMAPMultipart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LtZHKuIaXSNTKLFZzipxLOPNWhE=
-			</data>
 			<key>hash2</key>
 			<data>
 			fTYXK+6aba5UEMneauB/q35vA8C22PMuUxODCjgMEyA=
@@ -1456,10 +1244,6 @@
 		</dict>
 		<key>Headers/MCIMAPNamespace.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			r2PIxFEd8ZQWkLXn09LlGWJ19FQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			NvopZuuMEOX8QUkr1Hm/d0zD6/7BjP8OduNpSV7UCpo=
@@ -1467,10 +1251,6 @@
 		</dict>
 		<key>Headers/MCIMAPNamespaceItem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d9UCPlGEWpqAOCEqwEQmCS6g+6c=
-			</data>
 			<key>hash2</key>
 			<data>
 			nq/PytMXuOyR1CnK/f81db2IiIYQrnxeftG7NZFIROo=
@@ -1478,10 +1258,6 @@
 		</dict>
 		<key>Headers/MCIMAPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iNJCATvpPsLX6afK2Zrd7X0THI8=
-			</data>
 			<key>hash2</key>
 			<data>
 			oNpMubmKiAVObBPp3m941wPBGtaTEG/bsDh4XHs06aI=
@@ -1489,10 +1265,6 @@
 		</dict>
 		<key>Headers/MCIMAPOperationCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Wc5uHcviyktOzXD+b7d6x1trmT4=
-			</data>
 			<key>hash2</key>
 			<data>
 			sptWWTx91ZhWTTP/jOEh6kHReWl64130IGBrLxbCHns=
@@ -1500,10 +1272,6 @@
 		</dict>
 		<key>Headers/MCIMAPPart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PzB3/mddA02C+3e4rZNaGPujBJY=
-			</data>
 			<key>hash2</key>
 			<data>
 			dtMfpD31w3zN9oMCr483F2J5wOJ6pILR53/v56N0q44=
@@ -1511,10 +1279,6 @@
 		</dict>
 		<key>Headers/MCIMAPProgressCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QU4cptqf6zr3QUD8f9HxxVfqOOE=
-			</data>
 			<key>hash2</key>
 			<data>
 			cSqQ/BD8XcNX4uLI5fgN8/G0BGu8knd9290D5ClN3Ms=
@@ -1522,10 +1286,6 @@
 		</dict>
 		<key>Headers/MCIMAPQuotaOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rW3qWkVZGTSoI8d6HcQ/zCWzi80=
-			</data>
 			<key>hash2</key>
 			<data>
 			lvxJZv0MVWL/R+oJf1fvtH1EfM/bCX/kBwZtNw11Iwo=
@@ -1533,10 +1293,6 @@
 		</dict>
 		<key>Headers/MCIMAPSearchExpression.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			svohp1hNEhAPo+/zJqmzYnbirkc=
-			</data>
 			<key>hash2</key>
 			<data>
 			o0MI+4Cr1BMPmyjiRmFyslBdwU5bZqMtohFJyr5HG4I=
@@ -1544,10 +1300,6 @@
 		</dict>
 		<key>Headers/MCIMAPSearchOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QtpGsZPrIsn7wWw4VpTaZ3+ISwM=
-			</data>
 			<key>hash2</key>
 			<data>
 			snhRYStVMdZ2NlZF0jJuYsgCsiV09Mseac9voVn1KKU=
@@ -1555,10 +1307,6 @@
 		</dict>
 		<key>Headers/MCIMAPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OeacSi3Dt7LgZIEE6+ROSK1JvxQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			YOYEzKw9QEtuoCi14XNMZSPiXfKcoXDolutVltRzy48=
@@ -1566,10 +1314,6 @@
 		</dict>
 		<key>Headers/MCIMAPSyncResult.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			60JkH4u1t1Xj4hhGslmSA9Q7D/E=
-			</data>
 			<key>hash2</key>
 			<data>
 			NuumyG9wtdg8TfxGJF/gFPZhQqnqtaLp8Fq2oZHVMgg=
@@ -1577,10 +1321,6 @@
 		</dict>
 		<key>Headers/MCIndexSet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EOv0OfJl2Gf0TtnblCR656X5AMw=
-			</data>
 			<key>hash2</key>
 			<data>
 			4omyyxRriK13aPpVQwVSW3a6wriv/T9/RbLy4PAv2Ho=
@@ -1588,10 +1328,6 @@
 		</dict>
 		<key>Headers/MCIterator.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KYCN191gwN8ZkBopVRyae9g8Sls=
-			</data>
 			<key>hash2</key>
 			<data>
 			bDdKUBrLjH0d33pvgHsFWCRZ3kcQeO5j4Npg5ZrsX00=
@@ -1599,10 +1335,6 @@
 		</dict>
 		<key>Headers/MCJSON.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CkUkQ/OhtEK92T0+x/WpyfnRX04=
-			</data>
 			<key>hash2</key>
 			<data>
 			YAjVkCIijjYBDG+GgSt9Bc0uUocWPKE7MlKBxDk9bRw=
@@ -1610,10 +1342,6 @@
 		</dict>
 		<key>Headers/MCLibetpanTypes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1Vc7py+WBX/+fxofQB5DTkfh85c=
-			</data>
 			<key>hash2</key>
 			<data>
 			TOvEKqwxMDYAVK0TVcEUhVo7ivQFO5bve5sZ9KHwNDs=
@@ -1621,10 +1349,6 @@
 		</dict>
 		<key>Headers/MCLog.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ijJIeXPzxEusGL/qE/chrHudHow=
-			</data>
 			<key>hash2</key>
 			<data>
 			qCMEziYgpVGvCGEwwuXKtwDuqaXuwtvFr/wfqFbXwZ4=
@@ -1632,10 +1356,6 @@
 		</dict>
 		<key>Headers/MCMD5.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y7AoVrbv6pR7B2sFKkZSXEfT/84=
-			</data>
 			<key>hash2</key>
 			<data>
 			Oa90j7UKMXUM9bzYaP09g+HPS2dX6iIL2S7Sp8tMEGU=
@@ -1643,10 +1363,6 @@
 		</dict>
 		<key>Headers/MCMailProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p+9Ox59knuHvtdbgIguKvK1qZro=
-			</data>
 			<key>hash2</key>
 			<data>
 			Cx0FaBgGiJb6YIQzSG+9S+Zk1gn+afjHZXV0oq6l/ho=
@@ -1654,10 +1370,6 @@
 		</dict>
 		<key>Headers/MCMailProvidersManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VzibJmxS+VKy+FfJXjT7AL+HO/g=
-			</data>
 			<key>hash2</key>
 			<data>
 			HspbGuKXmANvaz2OqF9ScRd0jaIjGlAkm+loQ5WbBxo=
@@ -1665,10 +1377,6 @@
 		</dict>
 		<key>Headers/MCMessageBuilder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N0CpSW5doHHHkJBuBhKsBIXB07Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			GlTOUzUDz35zRwvWQ2yN4v9vkZSo2NnR8gPxOMFZJTA=
@@ -1676,10 +1384,6 @@
 		</dict>
 		<key>Headers/MCMessageConstants.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gxRbtKpcj/88/+CEqD6kokwSEKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			YZtWTZSJHW1nWCI11hmUI+YvySAOzoFgH5+3OHuYIhU=
@@ -1687,10 +1391,6 @@
 		</dict>
 		<key>Headers/MCMessageHeader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LLkxg38F6ybg7F0hzX22M0lCPTA=
-			</data>
 			<key>hash2</key>
 			<data>
 			gZLIPW6SmDKDUs3W26G3rL3tHi5u/KPKrTz7XcTyGNg=
@@ -1698,10 +1398,6 @@
 		</dict>
 		<key>Headers/MCMessageParser.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RTlYsu88zlbFAKethntCF6ILWXo=
-			</data>
 			<key>hash2</key>
 			<data>
 			JhQY1pXqgA91xmZVkHYFRc/gXOKeh5kPIIPPcjScxb0=
@@ -1709,10 +1405,6 @@
 		</dict>
 		<key>Headers/MCMessagePart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FXTu4nAS+aWRFQFBRoqs6Iw26Yk=
-			</data>
 			<key>hash2</key>
 			<data>
 			pVJ6o5PUYIM+/kF2WbQd0D550tvQX1RpUNkmBRAmyQw=
@@ -1720,10 +1412,6 @@
 		</dict>
 		<key>Headers/MCMultipart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O0RFjPzU9jGOSgR7/qgqELmUyfA=
-			</data>
 			<key>hash2</key>
 			<data>
 			VwlCqeEmw3p6QLRWurxpJ643v2jn8QZffIqWlgCKKA4=
@@ -1731,10 +1419,6 @@
 		</dict>
 		<key>Headers/MCNNTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			afRA7GF1etD/s2AiTTM/mhDy7FA=
-			</data>
 			<key>hash2</key>
 			<data>
 			fzSQrLnunu2aqFSKxC3uD/qt5USB5v9vHnL9cs1VWp4=
@@ -1742,10 +1426,6 @@
 		</dict>
 		<key>Headers/MCNNTPAsyncSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DcOKijMJhoG1/DvFc9m27f1zoq8=
-			</data>
 			<key>hash2</key>
 			<data>
 			gSkC6Nc3M9Yio51QoVp3YA/n2ikZWkKnUfaXhpkn0R4=
@@ -1753,10 +1433,6 @@
 		</dict>
 		<key>Headers/MCNNTPFetchAllArticlesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VJIvhpZJEoqRGxeRQzM8VArlo60=
-			</data>
 			<key>hash2</key>
 			<data>
 			ieCu87ok9VlwuwpEnJaqAKlM4CHajv2KWce9Lj8YlaU=
@@ -1764,10 +1440,6 @@
 		</dict>
 		<key>Headers/MCNNTPFetchArticleOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9Mtcaa0E6jbQweDp/Fc5hjZx/1Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			MnMpUiYg4LBJsXxckBDNBJMEA1ggAMwXdsHbVQ0H9tk=
@@ -1775,10 +1447,6 @@
 		</dict>
 		<key>Headers/MCNNTPFetchHeaderOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AHGw7eu5JKtltbHfUyqzJhSwus0=
-			</data>
 			<key>hash2</key>
 			<data>
 			bkCwcNDpzh7YTsyUqZ6RbDLYIssiaNyRXQWUcN2o7ME=
@@ -1786,10 +1454,6 @@
 		</dict>
 		<key>Headers/MCNNTPFetchOverviewOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eWYc50rexwQNSsvRSLbOJ5tBOGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			nDv5YxMqBoGDyC+s4smWfgz1IpTs1lbGEkhuhOjl04Y=
@@ -1797,10 +1461,6 @@
 		</dict>
 		<key>Headers/MCNNTPFetchServerTimeOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VZ4evN2+nR/nOBco3gX6kr5q3iA=
-			</data>
 			<key>hash2</key>
 			<data>
 			onAhxzYZIOgIzzzdNmb8fgOP9X4sBZyeFRlHPt4hDBs=
@@ -1808,10 +1468,6 @@
 		</dict>
 		<key>Headers/MCNNTPGroupInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V4aSG8qit6LwQiVVioLhNgJSKSs=
-			</data>
 			<key>hash2</key>
 			<data>
 			5o9QB5Ik6nrREtLpNg33BPdobSEYt4QGVbLJ5NIhcyg=
@@ -1819,10 +1475,6 @@
 		</dict>
 		<key>Headers/MCNNTPListNewsgroupsOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KA29+8kkgF45rIdL6LIJnKh0KdE=
-			</data>
 			<key>hash2</key>
 			<data>
 			M/Wjw5B6pTfkiRI6pkJxQ486Dn8Gb6iS4haoCve3ouo=
@@ -1830,10 +1482,6 @@
 		</dict>
 		<key>Headers/MCNNTPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lhtH6wIy8iZ+T2lSYBfPoYV/Qi8=
-			</data>
 			<key>hash2</key>
 			<data>
 			DYBWF71fzF0WDeV01hZqlfZUFda7FVZRd3wzHhlsTtQ=
@@ -1841,10 +1489,6 @@
 		</dict>
 		<key>Headers/MCNNTPOperationCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			80eOeqITNdMBPCvXutrsRBbtzoE=
-			</data>
 			<key>hash2</key>
 			<data>
 			fEQYR8UIC+XAGk1jtKW4N6NrpwzIZQFZvwczBztyzcg=
@@ -1852,10 +1496,6 @@
 		</dict>
 		<key>Headers/MCNNTPPostOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MX5+BUjO3EdRupflyMvCesP7TzM=
-			</data>
 			<key>hash2</key>
 			<data>
 			/1RI54NBG/42ALOpdHmBfrgRzx9D3ihdXjZAaXJangE=
@@ -1863,10 +1503,6 @@
 		</dict>
 		<key>Headers/MCNNTPProgressCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yI5Hp5tNuHWsdHeTvbL4wtLQLXc=
-			</data>
 			<key>hash2</key>
 			<data>
 			f6XI5WtvwZSVlDhjf9RxMFkgxo+EM3iAWJP2+5pQYtY=
@@ -1874,10 +1510,6 @@
 		</dict>
 		<key>Headers/MCNNTPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WedLl5hOkJKdjL8+7moHXN0QKzw=
-			</data>
 			<key>hash2</key>
 			<data>
 			RSUfhriRXhPYWuz3uThp/LVyldiHLGhE38Reg8TTdAQ=
@@ -1885,10 +1517,6 @@
 		</dict>
 		<key>Headers/MCNetService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oHpkGOQcEIxpDSvpRSABVkZqE6M=
-			</data>
 			<key>hash2</key>
 			<data>
 			cpa0eaPbjBW88HQLA0YGfOTjdpOn23cJmSsh1OFHBmM=
@@ -1896,10 +1524,6 @@
 		</dict>
 		<key>Headers/MCNull.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			53hsiss3VXg2dHktf6NMpClsGSc=
-			</data>
 			<key>hash2</key>
 			<data>
 			MSIN0qDEQc3ob/QXfvacFYwHdSmdZKk5CTx9fMhO4NE=
@@ -1907,10 +1531,6 @@
 		</dict>
 		<key>Headers/MCOAbstract.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+TJ8HnxrTA9i+5GAOkZa6aDdapw=
-			</data>
 			<key>hash2</key>
 			<data>
 			5pXd+S5yqVxL9/XMHUais2vdjc805Vf+QBGe8qdzdPI=
@@ -1918,10 +1538,6 @@
 		</dict>
 		<key>Headers/MCOAbstractMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7klKrAkK0Tpffwr7aDRKBqBLIwQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			osNyDx8lO0Pjk46cC8tkTEd95+02V6+IQ1S2wEkqTkY=
@@ -1929,10 +1545,6 @@
 		</dict>
 		<key>Headers/MCOAbstractMessagePart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p1kCksADjuHYGWlJzS5kBNlWn4Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			M/E1vTC+5joqwRAzsIz8A3qotR55mhPvmiMBdSmE/RA=
@@ -1940,10 +1552,6 @@
 		</dict>
 		<key>Headers/MCOAbstractMultipart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v69cg60PIDirJmbs+ZTri13pJ80=
-			</data>
 			<key>hash2</key>
 			<data>
 			LLOD0Rfs5zZrQNOWnGNlBXGSwGAerSgpxbfD8cJDEz4=
@@ -1951,10 +1559,6 @@
 		</dict>
 		<key>Headers/MCOAbstractPart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VnMK+lqjUk0pDok33APTSGPwP3E=
-			</data>
 			<key>hash2</key>
 			<data>
 			lWaXkPVVkaDBih22qzr78RAlhchwWOciJcVrnfdS03o=
@@ -1962,10 +1566,6 @@
 		</dict>
 		<key>Headers/MCOAccountValidator.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xNTe1DXOQrNEWtwUyXm/5Z0mhTs=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y90WzvKpfSBmUk9yDmkjKGQtKp7q4rqnXDXaY/EPsBY=
@@ -1973,10 +1573,6 @@
 		</dict>
 		<key>Headers/MCOAddress.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oylidtDR0iwmNp0f5Y+d/ucrce8=
-			</data>
 			<key>hash2</key>
 			<data>
 			ni96/omzGzDsqu0WUFGvwZy3xcLNcTWzxhrmLpFRDp4=
@@ -1984,10 +1580,6 @@
 		</dict>
 		<key>Headers/MCOAttachment.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EDJ5IL/nTeKz0S82oAf9aIxeloc=
-			</data>
 			<key>hash2</key>
 			<data>
 			nYgyy6kNK3JMgWQ3XcOEzEsFRto6xFvZkGR5a1BlAHg=
@@ -1995,10 +1587,6 @@
 		</dict>
 		<key>Headers/MCOConstants.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MCf6k3nZjK8CnIycd38FcbTvKOA=
-			</data>
 			<key>hash2</key>
 			<data>
 			qGNAoEj5DF0uj5bfIYJ6puWtSlE3/abkDKKmTlojvMM=
@@ -2006,10 +1594,6 @@
 		</dict>
 		<key>Headers/MCOHTMLRendererDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QCdOf3ZM4ig3cGjYyi9ingZ8X3c=
-			</data>
 			<key>hash2</key>
 			<data>
 			6ziUznPkqAVqhz9CNR+rnZIfC/SWIzyXcJQxIV3dW3o=
@@ -2017,10 +1601,6 @@
 		</dict>
 		<key>Headers/MCOHTMLRendererIMAPDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tH42kk9G9Y+lxwT0LKzlv4PBLoA=
-			</data>
 			<key>hash2</key>
 			<data>
 			TxDPyOB8E7ykNeo9MM7RrbTcT0bjbjislygs0j8yNtA=
@@ -2028,10 +1608,6 @@
 		</dict>
 		<key>Headers/MCOIMAP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			awoZv9uoB6zXpC9gO7dLjSMEnzg=
-			</data>
 			<key>hash2</key>
 			<data>
 			0q2Pyak1OaiypfnT264/mAIa6dtpKG6rOMODctcHG8M=
@@ -2039,10 +1615,6 @@
 		</dict>
 		<key>Headers/MCOIMAPAppendMessageOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B00BlrcPokOUd3bh8mhtFBiX8H4=
-			</data>
 			<key>hash2</key>
 			<data>
 			CtYwjJ+f2LdkNAZV3oI6QLjSanrhbyH9/ijnGgquzfc=
@@ -2050,10 +1622,6 @@
 		</dict>
 		<key>Headers/MCOIMAPBaseOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+u9grEVJ4IfSKfauPKjKgWORULI=
-			</data>
 			<key>hash2</key>
 			<data>
 			Auky8LHWYuHsSxbDIR3CLpcmvBcZttkAThI/9uo4GvQ=
@@ -2061,10 +1629,6 @@
 		</dict>
 		<key>Headers/MCOIMAPCapabilityOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tZi933PSaMIy52REV3fMZXf2Vl0=
-			</data>
 			<key>hash2</key>
 			<data>
 			NdjQjgpB8ceYcENkgJdPXCNnPxyfnCFlF92lf6nlssk=
@@ -2072,10 +1636,6 @@
 		</dict>
 		<key>Headers/MCOIMAPCopyMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zJxw0RU6U7MImxQpPXb6GGhqC3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			ehAMflcjKJrkjCOCsnwK3nt0qfkaKUOWTsIujCUGjeI=
@@ -2083,10 +1643,6 @@
 		</dict>
 		<key>Headers/MCOIMAPCustomCommandOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8bAVyCZLJSifFzT8dFjHXhFiaLk=
-			</data>
 			<key>hash2</key>
 			<data>
 			sunwVsirmMEuGu3ZXsYE46nfPInQcnP7FwvFT1PNvNE=
@@ -2094,10 +1650,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFetchContentOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			u6XUkvhYHF46nodRp+BwjpxVRD4=
-			</data>
 			<key>hash2</key>
 			<data>
 			tD5GH1GISI/utUTzqC4uZiG91rKJmziWBKFk+s5XTD0=
@@ -2105,10 +1657,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFetchContentToFileOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ouiF25O5GHMyA4J/zxTHLKSwRUc=
-			</data>
 			<key>hash2</key>
 			<data>
 			UzgMhs/RhNSyv8BD3hPWyMTMhdsCsa9CDsE/h6sDjVY=
@@ -2116,10 +1664,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFetchFoldersOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fz0t3EoNFV8yVi2lfBeK5h28zYg=
-			</data>
 			<key>hash2</key>
 			<data>
 			qrSljQRLgZqX9l39THx+eJKJEcaO7HTd8uZ8mIuBqj8=
@@ -2127,10 +1671,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFetchMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2YVUkk+wX+cio8sJyxl8T1hg1Ko=
-			</data>
 			<key>hash2</key>
 			<data>
 			5YFIU65kdXU6Pa4W5GVjjPJaqTCxQNKZ/k9SfX9pofg=
@@ -2138,10 +1678,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFetchNamespaceOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yNOf2NByfZRqa2TajxiHDYRy3OY=
-			</data>
 			<key>hash2</key>
 			<data>
 			XTaX1pI1Nm4dOtQJYMUJ754z9buHSEX25De1bkuehyI=
@@ -2149,10 +1685,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFetchParsedContentOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F8qWcBbYOhx5kLY7dnrBiMac1+w=
-			</data>
 			<key>hash2</key>
 			<data>
 			o6XklF01u6j3Oljrm9Cn7cH51Zee9hLbkuk2kb3Jdbk=
@@ -2160,10 +1692,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFolder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IL5Z7D9q7bm0XEQELzNkhrUbFUg=
-			</data>
 			<key>hash2</key>
 			<data>
 			meKD9mX5rYvlM3LNZ+fxXhS6lL14H7brsdGu1Sm4XMo=
@@ -2171,10 +1699,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFolderInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZyCCulbHZ1vPoLzlY6BHdmeOzK0=
-			</data>
 			<key>hash2</key>
 			<data>
 			bSsMpBjrpiOxeaCVgGmx6k2qlepIrchfiiXDaqu41f8=
@@ -2182,10 +1706,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFolderInfoOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MG4+avnjm8ywByWcjSaI9UE6oaY=
-			</data>
 			<key>hash2</key>
 			<data>
 			gIWsVkocAo04h/3zUwe8QCLcDU7e8ADC4LoYnQnMgBA=
@@ -2193,10 +1713,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFolderStatus.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YFja/PY3dDhT4jIvF8MjT8vKaCQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			lCsrefSDOpqy1m0fTR+218awdzHravbhGCkYg0n7LJI=
@@ -2204,10 +1720,6 @@
 		</dict>
 		<key>Headers/MCOIMAPFolderStatusOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IAg20WgtQgOjrqyINj7VQxTXgQA=
-			</data>
 			<key>hash2</key>
 			<data>
 			9I3rfRK/CpRuylg00Yk5p4IoNCbCtrkt6V43wyc97+k=
@@ -2215,10 +1727,6 @@
 		</dict>
 		<key>Headers/MCOIMAPIdentity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XzZCpQzTOxuG/A2RFendP2obmog=
-			</data>
 			<key>hash2</key>
 			<data>
 			bE6+7glFDF+c6bIeO0QHsclMzJKoLl4ZpJ142dh/0kE=
@@ -2226,10 +1734,6 @@
 		</dict>
 		<key>Headers/MCOIMAPIdentityOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GVDq5Y1LZVDLGr9kqeTxR/KzP7M=
-			</data>
 			<key>hash2</key>
 			<data>
 			5LobdSkuyR2t+nb53s+9ISHjdhMhOvoFvYlgkylg9gk=
@@ -2237,10 +1741,6 @@
 		</dict>
 		<key>Headers/MCOIMAPIdleOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zsx+bli+8A3fTsNbezexaMduZ84=
-			</data>
 			<key>hash2</key>
 			<data>
 			tT9wopCbB6c0qXJhI39PDNeHLvnY3D49qMdym8lQJ0o=
@@ -2248,10 +1748,6 @@
 		</dict>
 		<key>Headers/MCOIMAPMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WZ++rp3TPPWlvZkmVIaO3gTWiEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			2VZVOoeeSV+b516Mr6JODLSWn+85hWiLWVu9nUaLCH8=
@@ -2259,10 +1755,6 @@
 		</dict>
 		<key>Headers/MCOIMAPMessagePart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			buR4PjmM/AkuSLQlVyVrq2g5Lh0=
-			</data>
 			<key>hash2</key>
 			<data>
 			SE24r4zra+mqwkeMEzFcFrFkpd86dbJoEeUgRngcSgY=
@@ -2270,10 +1762,6 @@
 		</dict>
 		<key>Headers/MCOIMAPMessageRenderingOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UMphILRGiQBSg+hJu+3x2kX9Bv4=
-			</data>
 			<key>hash2</key>
 			<data>
 			4L+Zc4nnSLSm06fo52eFij+nc1LRxVQ2unHDDfIACLo=
@@ -2281,10 +1769,6 @@
 		</dict>
 		<key>Headers/MCOIMAPMoveMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CmRrl4FDGrQzh//bvRoCzWtdkP8=
-			</data>
 			<key>hash2</key>
 			<data>
 			hyw0qdki5lGLjEQbAy1IQv5Wrz6TBUV/d/RN3hUqaHU=
@@ -2292,10 +1776,6 @@
 		</dict>
 		<key>Headers/MCOIMAPMultipart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mpif7e8os102BUsf/6I5Gpvqv6M=
-			</data>
 			<key>hash2</key>
 			<data>
 			btv1gX2/5Q3I6HheRJ+1JBJMuPFxN+51iL+gzvD5Cx0=
@@ -2303,10 +1783,6 @@
 		</dict>
 		<key>Headers/MCOIMAPNamespace.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+SaMMrtl6zhwwOnUopY6JBHlkd0=
-			</data>
 			<key>hash2</key>
 			<data>
 			hOW8dxVJKvUbBl9w/Of0BIlxeo3deajpAYkOhITeDWg=
@@ -2314,10 +1790,6 @@
 		</dict>
 		<key>Headers/MCOIMAPNamespaceItem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F1Qmt2uEM3zgEAP78gGa9HVQ7eY=
-			</data>
 			<key>hash2</key>
 			<data>
 			05HowR9Yi7fEhk8YuYKnHhzIZVeVx1KG13zBRU7Rn8Y=
@@ -2325,10 +1797,6 @@
 		</dict>
 		<key>Headers/MCOIMAPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IFd208OghGC8C4qafyhoQVDhEzQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ln8DnVo7lI5DyJCsZyWh3VKmQecxfYpVTQY0MESBYd8=
@@ -2336,10 +1804,6 @@
 		</dict>
 		<key>Headers/MCOIMAPPart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fs/5C4e28tgEmEerJkR0h2ifgpU=
-			</data>
 			<key>hash2</key>
 			<data>
 			Wx9Sobut+OxR/ecHd21TODurViXJyb44WnQLVHwDkFU=
@@ -2347,10 +1811,6 @@
 		</dict>
 		<key>Headers/MCOIMAPQuotaOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LDGMHkuNFxVPDxLG9OzEaiQyEvo=
-			</data>
 			<key>hash2</key>
 			<data>
 			TEfhdas/DDz4OEa5sB5UO/y8gWh3oC4bmCwymCmZJCM=
@@ -2358,10 +1818,6 @@
 		</dict>
 		<key>Headers/MCOIMAPSearchExpression.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4wAa5PUZIhvRd89WFLrimTrHXM0=
-			</data>
 			<key>hash2</key>
 			<data>
 			4M+ORsOmBn3nt4+EkGysbWP2Gm0oYK7LSXVVMa+BDj0=
@@ -2369,10 +1825,6 @@
 		</dict>
 		<key>Headers/MCOIMAPSearchOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tCpeZDSi7pw5/C9dXuijdMdl4m0=
-			</data>
 			<key>hash2</key>
 			<data>
 			NQnZivBaX4ElnrM3UIstVpyAjPsnhWqRNGpp5cnotwk=
@@ -2380,10 +1832,6 @@
 		</dict>
 		<key>Headers/MCOIMAPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xGWtRskF4rdeao93dkhee2DMhJM=
-			</data>
 			<key>hash2</key>
 			<data>
 			pT3VvVwZBuoxFp9Q9+O415hWcA50CqXVzdv4/V9Y3/E=
@@ -2391,10 +1839,6 @@
 		</dict>
 		<key>Headers/MCOIndexSet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uS1EAc5ltZk5APmmES/s289hBL4=
-			</data>
 			<key>hash2</key>
 			<data>
 			JVGZWldFuq61oGfuVjwt8rOaFbJXzq9gtW2BWa3Kopw=
@@ -2402,10 +1846,6 @@
 		</dict>
 		<key>Headers/MCOMailProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PLY5miDRCXxPGku4yXP470lDpdo=
-			</data>
 			<key>hash2</key>
 			<data>
 			Mw/enXBi8nYoEazjjVyRGqhXcwjNB0/GGc1WLsL/PMk=
@@ -2413,10 +1853,6 @@
 		</dict>
 		<key>Headers/MCOMailProvidersManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6nOse7CLTc1sggsWpdoo1OV+MB8=
-			</data>
 			<key>hash2</key>
 			<data>
 			PCWWFTI0kEGx06V4/HSAlkfoTPNRqQ0L3YjMQFQ3b5k=
@@ -2424,10 +1860,6 @@
 		</dict>
 		<key>Headers/MCOMessageBuilder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gVbr2fgAU0/ofB7oSrXmiFB1gIo=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZmZCycUY06BqgYfEfR6J7EI/S+WH7/aDyeHaF/MQUEs=
@@ -2435,10 +1867,6 @@
 		</dict>
 		<key>Headers/MCOMessageHeader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Krc6T3Qxw9tngsYJK3Gxzg9762c=
-			</data>
 			<key>hash2</key>
 			<data>
 			i2ux/FBdKQHwDN/l4KxyG8WyMTKH7z+etH5GxQoxUno=
@@ -2446,10 +1874,6 @@
 		</dict>
 		<key>Headers/MCOMessageParser.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qwhdq9xSFnjNnpeUaZJ9mj4NfVs=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y/HxDKwavoKbrIHhw/N0v+0jwnX9zByq7h4eVSYAw6s=
@@ -2457,10 +1881,6 @@
 		</dict>
 		<key>Headers/MCOMessagePart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LJiu4l1KfH1+7SAWXtntTqSpx8k=
-			</data>
 			<key>hash2</key>
 			<data>
 			TeDqFL+OVqkI8GgtNHQzsWaQycn0/u15pibyClSufTY=
@@ -2468,10 +1888,6 @@
 		</dict>
 		<key>Headers/MCOMultipart.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uKZlHi3zJxfRitzoMcf4EgIXo7U=
-			</data>
 			<key>hash2</key>
 			<data>
 			AOcE0bHrHcS8UwVHPFOPtDK0toqC6WdUjItQmF6E2Bs=
@@ -2479,10 +1895,6 @@
 		</dict>
 		<key>Headers/MCONNTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ekSLxOSwdk9eeP6ivwFQpqHw3CE=
-			</data>
 			<key>hash2</key>
 			<data>
 			jew5CbBV4GETgGNfLf6hDZMm6aaDaUj4PjwRr6pz9BY=
@@ -2490,10 +1902,6 @@
 		</dict>
 		<key>Headers/MCONNTPFetchAllArticlesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			C+QqclXc7tzkbKslD5B9poxO8xo=
-			</data>
 			<key>hash2</key>
 			<data>
 			0tGH5vCmqTYNyCp1jNiYTyvVMq+ivHJir0cwdIzw54s=
@@ -2501,10 +1909,6 @@
 		</dict>
 		<key>Headers/MCONNTPFetchArticleOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			frG+0ns0a+F29m1qj2PQybrmBWw=
-			</data>
 			<key>hash2</key>
 			<data>
 			TuEXPPPqMs7rwWMmphShYZJszgFVrd0jEdHe9iJIdlI=
@@ -2512,10 +1916,6 @@
 		</dict>
 		<key>Headers/MCONNTPFetchHeaderOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j1jf6a6xTSMEeowoZkAA5l+0dcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			RW8Ku2uXk/0uAsetdEuWgtiM6ySz6VulDHG/DtdVDLI=
@@ -2523,10 +1923,6 @@
 		</dict>
 		<key>Headers/MCONNTPFetchOverviewOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K6VN2TO05buSHbWJoYj7cBZ686E=
-			</data>
 			<key>hash2</key>
 			<data>
 			tPYmMHv5mOen/p+C4ffuxbf8KLdep5qlWraJX4pyljM=
@@ -2534,10 +1930,6 @@
 		</dict>
 		<key>Headers/MCONNTPFetchServerTimeOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o/Oph3aR6zXBlgSlhW55HHOI/qw=
-			</data>
 			<key>hash2</key>
 			<data>
 			U5Z11VafesZE3/CVJQ0xEFQuKlgouu7rjLslr6BJQGE=
@@ -2545,10 +1937,6 @@
 		</dict>
 		<key>Headers/MCONNTPGroupInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Iia2q5gjAQ1sc+GCng3VTZZ3KUg=
-			</data>
 			<key>hash2</key>
 			<data>
 			tqKis9Tl1g910TSKxhHukLhEBpndiBWCsxftlLX7ea8=
@@ -2556,10 +1944,6 @@
 		</dict>
 		<key>Headers/MCONNTPListNewsgroupsOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4At4T3PFCYrBY4JfVH/CZqKjP4M=
-			</data>
 			<key>hash2</key>
 			<data>
 			I7B6bHwyrupJ+IXR9q0B2TTyJZ040YYHDMrBXucMO9Q=
@@ -2567,10 +1951,6 @@
 		</dict>
 		<key>Headers/MCONNTPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SpLTysZkU5XfxLVtEKkWfqpCujw=
-			</data>
 			<key>hash2</key>
 			<data>
 			dbftlKH+w3yHyyD+AyS0I+WHCy4uwzlwqmFI8IXPrPU=
@@ -2578,10 +1958,6 @@
 		</dict>
 		<key>Headers/MCONNTPPostOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fA6cwH8LqM3JFZrTVWiwQxnw4Xw=
-			</data>
 			<key>hash2</key>
 			<data>
 			5ousLDqAc8mhuBKmfctJnMVly2yI4ltXGLg2NExGN1I=
@@ -2589,10 +1965,6 @@
 		</dict>
 		<key>Headers/MCONNTPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kSOenvrReUFVtccE/59CzvOMzAY=
-			</data>
 			<key>hash2</key>
 			<data>
 			RI5erH2ihFswmnPgo80cfJa6BtJTuPd2hhnvuFn8myg=
@@ -2600,10 +1972,6 @@
 		</dict>
 		<key>Headers/MCONetService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BHrCjVF5Ei+1AmZlFwwUmg2uNKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			RuDCWvnS9/uMdBWQ6BkTsnJpwQR8YpLZNJY56qeYafU=
@@ -2611,10 +1979,6 @@
 		</dict>
 		<key>Headers/MCOObjectWrapper.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nCnuhlg+OsLyRBjOnyGsb40hbmw=
-			</data>
 			<key>hash2</key>
 			<data>
 			NTnqXt4ydPZj3TG5riybQNMD8yG5UrRS+0ZcqTMxADY=
@@ -2622,10 +1986,6 @@
 		</dict>
 		<key>Headers/MCOOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yn4LUEolk1w9Apz4SqnB1muHcxo=
-			</data>
 			<key>hash2</key>
 			<data>
 			aYxYFw3yWdG1pOZOQIA2kS5AZ+4ksWwlr1/tmuAA+ko=
@@ -2633,10 +1993,6 @@
 		</dict>
 		<key>Headers/MCOPOP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			c2wZSI1kq5e4HgySZug9GcgaL6o=
-			</data>
 			<key>hash2</key>
 			<data>
 			fvyS3LbDksGbusgDelq4Cga3IlqZup4p/cF1fE9H67E=
@@ -2644,10 +2000,6 @@
 		</dict>
 		<key>Headers/MCOPOPFetchHeaderOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1Vd3YvZM9rZnKLVWA0OYXumprxs=
-			</data>
 			<key>hash2</key>
 			<data>
 			YHID8l1Vh6ts6BeoCM8GPxC9gj3lCuzOrivvZa1eDJ8=
@@ -2655,10 +2007,6 @@
 		</dict>
 		<key>Headers/MCOPOPFetchMessageOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8guUYu2LC8GMqDh3vSL4X25qHoA=
-			</data>
 			<key>hash2</key>
 			<data>
 			VHXtyGnanZxLPio8RsMEHL1IVodrk1ZonFjXWjAHfWI=
@@ -2666,10 +2014,6 @@
 		</dict>
 		<key>Headers/MCOPOPFetchMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XFlwRtdJCuCha9b6uDHnSW5wKwY=
-			</data>
 			<key>hash2</key>
 			<data>
 			+igViqD7NqsdT5x1PLBsgis2o2vMCSZLjHXLkU15O4s=
@@ -2677,10 +2021,6 @@
 		</dict>
 		<key>Headers/MCOPOPMessageInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Dg37s++OzwRC3/pEBdlWxALAqLw=
-			</data>
 			<key>hash2</key>
 			<data>
 			v6lN0tGSoeNwE+SYcBMuAVPLwSDUdjVpWrldwS95dRY=
@@ -2688,10 +2028,6 @@
 		</dict>
 		<key>Headers/MCOPOPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ERckFalCgNHGFTHqfrNdGGIoxVY=
-			</data>
 			<key>hash2</key>
 			<data>
 			RC8p+vvKkcs0rypSNxSo927PqJBBEUGtwlhcdK96ecA=
@@ -2699,10 +2035,6 @@
 		</dict>
 		<key>Headers/MCOPOPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0uPBeT8jVuUWuxWqhBs9Tu1hkKA=
-			</data>
 			<key>hash2</key>
 			<data>
 			FZnx8TAA0uLk8kF4bqL5Ygb6McNZY2EAN9tU+xpRaJM=
@@ -2710,10 +2042,6 @@
 		</dict>
 		<key>Headers/MCOProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6pvcB2O9GZvpcEYqwCw4FWM9fgY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Nuc+YAghykzvOdjIdkPo8u+BeyO+9Xnk1hQvS9Ztq0A=
@@ -2721,10 +2049,6 @@
 		</dict>
 		<key>Headers/MCORFC822.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x6qVjHOwTvZbIRBHblYUv1i7PMg=
-			</data>
 			<key>hash2</key>
 			<data>
 			n3jm6WZDJSCCu4m+VqZ5CmZJHl7ztJO7WBOnhns8mWw=
@@ -2732,10 +2056,6 @@
 		</dict>
 		<key>Headers/MCORange.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			//OFDbWdLYuwevSi1CIV/BEfNaE=
-			</data>
 			<key>hash2</key>
 			<data>
 			QMAl/QOWifGWpj6x5boMBiWxqxr1WFziHGhHJIzD4jg=
@@ -2743,10 +2063,6 @@
 		</dict>
 		<key>Headers/MCOSMTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9JlBEK9pqbJSVEDPB4GGjATtWO4=
-			</data>
 			<key>hash2</key>
 			<data>
 			k4KFCZZk+GCWY14024zF/u4zxsODqO2TZcplC4UrvRM=
@@ -2754,10 +2070,6 @@
 		</dict>
 		<key>Headers/MCOSMTPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w8K1AsNulma9IYectE0zhnhz4ss=
-			</data>
 			<key>hash2</key>
 			<data>
 			5/9Q8xnCPBf1kL4tHLc2nggfDQkel5pppNh+rY5Cejo=
@@ -2765,10 +2077,6 @@
 		</dict>
 		<key>Headers/MCOSMTPSendOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/+cUPUqD4tsb450xnJ97Eg6Lwxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			x1gCWhPuMBzURYj7lVGad7PuWBhYmfijiERkh7v6fK8=
@@ -2776,10 +2084,6 @@
 		</dict>
 		<key>Headers/MCOSMTPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7gbK3hVvvPYazmPu1WYa35A8/qY=
-			</data>
 			<key>hash2</key>
 			<data>
 			RHgMBkISdHMiypQvA858YIAY056KOlqJ0Of5YVR5xxk=
@@ -2787,10 +2091,6 @@
 		</dict>
 		<key>Headers/MCOUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5w4csq6Qt/D9vKUTRD9xb/r4bIM=
-			</data>
 			<key>hash2</key>
 			<data>
 			waO6ZK8acWYmLJAoQ/+zge/IBA2uN909xneKGOV/oW0=
@@ -2798,10 +2098,6 @@
 		</dict>
 		<key>Headers/MCObjC.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y5cmZbXgrNr9Koa4P2dxwkKPsW4=
-			</data>
 			<key>hash2</key>
 			<data>
 			wJdZEdP+ZPu6usJIyYSDngmlDsDt+FxTkAYMOzHQzXs=
@@ -2809,10 +2105,6 @@
 		</dict>
 		<key>Headers/MCObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TPUDAWt4CHLd0bbJAurn45lRdlo=
-			</data>
 			<key>hash2</key>
 			<data>
 			bk2pw32i4ItLW8JlAb1IUjAB1jvEeOWhc9YbGWsrbkw=
@@ -2820,10 +2112,6 @@
 		</dict>
 		<key>Headers/MCOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dWv1vxwoWhVrxzNxPWIM9CqWHjg=
-			</data>
 			<key>hash2</key>
 			<data>
 			8jkaxE3GoiJDW7V7sxeh4XBpIjh+yqF9BRa2q6OyEvM=
@@ -2831,10 +2119,6 @@
 		</dict>
 		<key>Headers/MCOperationCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OMp+EMvH9p2S2EfrPdXyWJdh13Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			wSJG05+OEnISHgkGLJaPMyNPylp80WyUA3IvEqd1Rqk=
@@ -2842,10 +2126,6 @@
 		</dict>
 		<key>Headers/MCOperationQueue.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FnoCONAHJ1TA1KvnsiMD+xZ59Lw=
-			</data>
 			<key>hash2</key>
 			<data>
 			OaZPRoM0jEleh0GIHdTiIqE3qXFAGPghiHLJlKHvCWo=
@@ -2853,10 +2133,6 @@
 		</dict>
 		<key>Headers/MCPOP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			swIZfPk8uCXwLHRCJyiI7OFqJ+8=
-			</data>
 			<key>hash2</key>
 			<data>
 			iaWlhbokY9FkkiJn8aWaQFhnMzPlDMQc4GBAQv0iGhM=
@@ -2864,10 +2140,6 @@
 		</dict>
 		<key>Headers/MCPOPAsyncSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			08jCNDNXqBA3KOs6ykBISzJ/ioY=
-			</data>
 			<key>hash2</key>
 			<data>
 			7onU6KgVaApMRpdPaQI/syzxVGSDJZmeeXSUey55Dp4=
@@ -2875,10 +2147,6 @@
 		</dict>
 		<key>Headers/MCPOPFetchHeaderOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OG5qb71+0LRhlQFk5jFLIh6+RJw=
-			</data>
 			<key>hash2</key>
 			<data>
 			j6Hj4p/YP/OfzgdowtoWeLNfrdb1g3WOARiobcG1U8E=
@@ -2886,10 +2154,6 @@
 		</dict>
 		<key>Headers/MCPOPFetchMessageOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hFXXpuMHAg67baG8jUDzbJHvpIY=
-			</data>
 			<key>hash2</key>
 			<data>
 			IxTej2BksS0m7rJaRdrevmiw8bZ0itOsiGcH2Xj2uUw=
@@ -2897,10 +2161,6 @@
 		</dict>
 		<key>Headers/MCPOPFetchMessagesOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tbjwbUOFCqDay8Pe7AG0BR0OIjE=
-			</data>
 			<key>hash2</key>
 			<data>
 			F7E5OTGpsgW7CW6pTn4NfjKuwLEhfdndRU/JVyAP8KU=
@@ -2908,10 +2168,6 @@
 		</dict>
 		<key>Headers/MCPOPMessageInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ACgXDQV1EwWEe2L7kDXb2C367LA=
-			</data>
 			<key>hash2</key>
 			<data>
 			lAVkNeuOhi2kR2aHdDGUExXqW9sUU9w2QI6rqhavju0=
@@ -2919,10 +2175,6 @@
 		</dict>
 		<key>Headers/MCPOPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			09mBdeRDFPMPiOpz67w74QN5ev4=
-			</data>
 			<key>hash2</key>
 			<data>
 			FAWjeFS7HoAoxNpaJU1d5ILCmOlWsueXXYP7JpPeHZ0=
@@ -2930,10 +2182,6 @@
 		</dict>
 		<key>Headers/MCPOPOperationCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pNYgsmmfQr7EuLpMSQvRugn4ZMQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			6vj5RL4Hfdzgy0cuaJOZ6PrHWd4ZOP6BVnDCWnL36bs=
@@ -2941,10 +2189,6 @@
 		</dict>
 		<key>Headers/MCPOPProgressCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UXT4btWseJK79je5ljQ009BTjeo=
-			</data>
 			<key>hash2</key>
 			<data>
 			fBGnj8S9sioPUH92xNkC6GO55P6rmSj/BYIb6U0jl+4=
@@ -2952,10 +2196,6 @@
 		</dict>
 		<key>Headers/MCPOPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cB8f/NW5IFX567+AS1LHx3wyGGo=
-			</data>
 			<key>hash2</key>
 			<data>
 			yXsU3apX6WpMQLzvza9KLMdRQoPmEQ0UAhaqUTRr7vQ=
@@ -2963,10 +2203,6 @@
 		</dict>
 		<key>Headers/MCProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+Y/f2lh3OnlohLAw3TQ+FiVNSBk=
-			</data>
 			<key>hash2</key>
 			<data>
 			wfZJ0WFCq6/QqtgLGFygUgHPTJSfh/bJl5nP7KxY4jI=
@@ -2974,10 +2210,6 @@
 		</dict>
 		<key>Headers/MCRFC822.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+8zSbQVk0Dz2gvfmoiKZEJFHTo8=
-			</data>
 			<key>hash2</key>
 			<data>
 			DkoiCzHgQbq7KrO18SKKqj3rhI79Fm+nJrYtbTFTOXk=
@@ -2985,10 +2217,6 @@
 		</dict>
 		<key>Headers/MCRange.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w6fWFhI56nvwuYofykxNX/nZZKM=
-			</data>
 			<key>hash2</key>
 			<data>
 			e2R3gT77cYA3NAMmVjuGgQF4pgffPujLnJXwqcM3+H8=
@@ -2996,10 +2224,6 @@
 		</dict>
 		<key>Headers/MCRenderer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4upxHZFwamhWV8H7S3y5wO3C7zM=
-			</data>
 			<key>hash2</key>
 			<data>
 			/ikRLa3H2vmEC9afWzQISe6xty1tl7WyIQ2yTEkxVRA=
@@ -3007,10 +2231,6 @@
 		</dict>
 		<key>Headers/MCSMTP.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FpX3CX6VVJY+cWr1Gv0AYHr9mv8=
-			</data>
 			<key>hash2</key>
 			<data>
 			EHLP5LLjMh9C6XxKXQh/al3W8s7lnDP8gyFlTZRkUwA=
@@ -3018,10 +2238,6 @@
 		</dict>
 		<key>Headers/MCSMTPAsyncSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fOLv95v4grPE9N3t4xAt9Wk08lU=
-			</data>
 			<key>hash2</key>
 			<data>
 			956MWi3MNDe4QPgFFiDCJNdiQasXhsUx0Rgy5Dd2yOI=
@@ -3029,10 +2245,6 @@
 		</dict>
 		<key>Headers/MCSMTPOperation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W5YTv4S45OaBGoUatVH1RVqe5lQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			jdHDEe2YfutME/BQntqVp9mkwZAnivvrBFxZI5mGmPg=
@@ -3040,10 +2252,6 @@
 		</dict>
 		<key>Headers/MCSMTPOperationCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bITCDkkaa+HztIqdiryI14Pz+M8=
-			</data>
 			<key>hash2</key>
 			<data>
 			R44Png9IEMBeC8fhkdqV0uFizaxFSwAU7VYzWK58ftQ=
@@ -3051,10 +2259,6 @@
 		</dict>
 		<key>Headers/MCSMTPProgressCallback.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hKDpezZzHYYw7RK6ngbCBsy+llQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			VMxsxFmMtVpH4pFcOo2vGBY5i9i9JvsRV1jxBT67rJU=
@@ -3062,10 +2266,6 @@
 		</dict>
 		<key>Headers/MCSMTPSession.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lXWDJRSirlm12fyB0BDjeKiud18=
-			</data>
 			<key>hash2</key>
 			<data>
 			ryzryfiiRW4IUlapMGwX/qofHgbRRZ0iQosFQfmVEUo=
@@ -3073,10 +2273,6 @@
 		</dict>
 		<key>Headers/MCSet.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UXOciRQOPbXon72NxNcF6+PjtRM=
-			</data>
 			<key>hash2</key>
 			<data>
 			iGK+nt9rtEAn2GA4LXQyMRjk+HC57qqUMcxsmiWTLFs=
@@ -3084,10 +2280,6 @@
 		</dict>
 		<key>Headers/MCString.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8Z3+rBN9we2cJlVDqT7MzWWEcSs=
-			</data>
 			<key>hash2</key>
 			<data>
 			tJnll/eWvOhwp2yWIdD5mBPcIzjyJ5Yh2BJFRdue8rI=
@@ -3095,10 +2287,6 @@
 		</dict>
 		<key>Headers/MCUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AGiLdpfBK334L5SDmmqnpNjgE+E=
-			</data>
 			<key>hash2</key>
 			<data>
 			uxkweXa5fjf3lU71B1fyaRjCzjapHeVKv624cB14ji0=
@@ -3106,10 +2294,6 @@
 		</dict>
 		<key>Headers/MCValue.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pg4c8ZtS3nPKHa7ppCas9tASOM0=
-			</data>
 			<key>hash2</key>
 			<data>
 			13G2myTSMolLwWGdOYSZfOmvC/pgGOnJPcttEqOXaB0=
@@ -3117,10 +2301,6 @@
 		</dict>
 		<key>Headers/MailCore.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1H59Ohf6h7kCG7twvFyIcWhwiGc=
-			</data>
 			<key>hash2</key>
 			<data>
 			lMFacOiJkjwHn4RjvCE96qVvtTvh5T610r6lHEVcFQM=
@@ -3128,10 +2308,6 @@
 		</dict>
 		<key>Headers/NSArray+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2QFFVpe1NycPYtFsCiU1HmmP3zw=
-			</data>
 			<key>hash2</key>
 			<data>
 			y3izUjzsDqyhuhmpxmqd1jx6oTqovtt9RsoOBFBQydc=
@@ -3139,10 +2315,6 @@
 		</dict>
 		<key>Headers/NSData+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eIdAZYId+yJzTsPE0r3X93pNmT8=
-			</data>
 			<key>hash2</key>
 			<data>
 			c9vfnmGJyuoM9SucKetaHEpU+xOU0dBwX2W5hLPqXK4=
@@ -3150,10 +2322,6 @@
 		</dict>
 		<key>Headers/NSDictionary+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cUEhopEXauJ2njOW5ANuaI90U/k=
-			</data>
 			<key>hash2</key>
 			<data>
 			aT07S9pjNHn5cLfp96x7ZZ9fONYqBXhC8n0USliSO4U=
@@ -3161,10 +2329,6 @@
 		</dict>
 		<key>Headers/NSError+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Gzy1mYevqFT+SasXyMdGg0eNS2w=
-			</data>
 			<key>hash2</key>
 			<data>
 			Bd1jcI4ZTDkeoN0U0yFJvFMDzC9bwJnqH/cVrT8znYQ=
@@ -3172,10 +2336,6 @@
 		</dict>
 		<key>Headers/NSIndexSet+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dsB3fKJDraf/Id3tZ9nJZ0kfcQw=
-			</data>
 			<key>hash2</key>
 			<data>
 			Gr4KuSP6zLe5qzzefF76l7siZmCQ4f415KFq+EWxogM=
@@ -3183,10 +2343,6 @@
 		</dict>
 		<key>Headers/NSObject+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			udFJgRTmOQAhctTEDmU2Zep1pTA=
-			</data>
 			<key>hash2</key>
 			<data>
 			YYWRRlFJcoMNzFmTqF3VBPG4BwO1eiBuEgg5dWFVk6k=
@@ -3194,10 +2350,6 @@
 		</dict>
 		<key>Headers/NSString+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4imNvGg2PvVG2y6ln8Fcp4mQCW4=
-			</data>
 			<key>hash2</key>
 			<data>
 			A9dXS2wc326r4IYp5Kf4/ZWNWIM5BXj8ceW7sO6lIeI=
@@ -3205,10 +2357,6 @@
 		</dict>
 		<key>Headers/NSValue+MCO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CR4M2YnM9b9GT1w1m8Ue/KcdxjA=
-			</data>
 			<key>hash2</key>
 			<data>
 			NJWHzZcClQP21YV5YgVVxpyruyMPo9VY1GSaba2/LKs=
@@ -3216,10 +2364,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VKuBzZHGVNOXX/XF9FGfAqE3Bwo=
-			</data>
 			<key>hash2</key>
 			<data>
 			XEvdlnkPHNPybn+bKnS7iiD4MQqS9cWmOyUkT0bAXb4=
@@ -3227,10 +2371,6 @@
 		</dict>
 		<key>providers.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hjpGcEcuvw2ZC7zFVS3ZKoQ1avM=
-			</data>
 			<key>hash2</key>
 			<data>
 			QMJrIyhO/dMSGyH56KaC9u04Y+usPc8ePyM/ngZLwVc=

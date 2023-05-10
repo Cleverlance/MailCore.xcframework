@@ -12,7 +12,7 @@
 
 #include <MailCore/MCObject.h>
 #include <MailCore/MCRange.h>
-#include <inttypes.h>
+//#include <inttypes.h>
 
 #ifdef __cplusplus
 

@@ -874,11 +874,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		W1psjZ7GvmZiA+wxOS7kS0HZJl0=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		VKuBzZHGVNOXX/XF9FGfAqE3Bwo=
+		7Px8VM4OyvG4RNz8zC66YLD6uU0=
 		</data>
 		<key>providers.json</key>
 		<data>
@@ -2409,13 +2405,6 @@
 			<key>hash2</key>
 			<data>
 			NJWHzZcClQP21YV5YgVVxpyruyMPo9VY1GSaba2/LKs=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XEvdlnkPHNPybn+bKnS7iiD4MQqS9cWmOyUkT0bAXb4=
 			</data>
 		</dict>
 		<key>providers.json</key>

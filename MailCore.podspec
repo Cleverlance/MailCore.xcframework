@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Vit Michal" => "vit.michal@cleverlance.com" }
   spec.source             = { :git => 'your repo here', :tag => "#{spec.version}" }
   spec.swift_version      = "5.3"
-  spec.module_map         = "module.modulemap"
+
   # Supported deployment targets
   spec.ios.deployment_target  = "13.0"
 
